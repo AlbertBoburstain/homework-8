@@ -36,7 +36,7 @@
 // });
 
 
-// 33333
+// 33
 
 
 // function sumTo(n) {
@@ -66,3 +66,5 @@
 //         sumResult.textContent = sumTo(n);
 //     });
 // });
+ 
+// бай баай
